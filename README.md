@@ -1,2 +1,0 @@
-# Sand
-Created with CodeSandbox
